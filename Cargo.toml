@@ -1,0 +1,8 @@
+[package]
+name = "factoring"
+version = "1.0.0"
+authors = ["ej <EJPfister55@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
